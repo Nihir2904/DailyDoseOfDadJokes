@@ -31,7 +31,3 @@ The KMeans algorithm was able to cluster the jokes into 5 different clusters of 
 - Topic Modeling using Latent Dirichlet Allocation (LDA)
 - Expand the dataset to include more jokes and categories
 
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for more information.
