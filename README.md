@@ -23,6 +23,8 @@ The project was implemented using Python 3.9.
 
 To run the project, simply run the `your-dad-joked-once.ipynb` file in the root directory. This will preprocess the data, perform clustering and topic modeling, and generate visualizations.
 
+or simply click on this link and give the notebook a run: https://www.kaggle.com/code/nihirshah/your-dad-joked-once upvote if you believe in god and upvote if you don't.
+
 ## Results
 
 The KMeans algorithm was able to cluster the jokes into 5 different clusters of different atributes and features.
@@ -30,4 +32,6 @@ The KMeans algorithm was able to cluster the jokes into 5 different clusters of 
 - Explore other clustering algorithms and compare their performance
 - Topic Modeling using Latent Dirichlet Allocation (LDA)
 - Expand the dataset to include more jokes and categories
+
+
 
