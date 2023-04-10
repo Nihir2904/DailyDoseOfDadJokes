@@ -12,7 +12,7 @@ In this project, I performed the following tasks:
 
 ## Dataset
 
-The dataset used in this project can be found in the `dataset.csv`. It contains a list of jokes along with their respective clusters, thanks to https://www.kaggle.com/aryashah2k for building this dataset.
+The dataset used in this project can be found in the `dataset.csv`. It contains a list of jokes in plain text format, thanks to [Arya Shah](https://www.kaggle.com/aryashah2k) for building this dataset.
 
 ## Requirements
 
